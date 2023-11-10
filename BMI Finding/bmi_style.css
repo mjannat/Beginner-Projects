@@ -1,0 +1,13 @@
+body{
+    width: 100%; /* Set the width of your div */
+    height: 100%; /* Set the height of your div */
+    background-color: lightblue;
+    text-align: center; /* Center text horizontally */
+    line-height: 50px; /* Center text vertically */
+}
+
+#container{
+    text-align: center;
+    text-decoration:  none;
+    line-height: 1.5;
+}
