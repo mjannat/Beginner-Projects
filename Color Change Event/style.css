@@ -1,0 +1,28 @@
+body{
+    width: 100%; /* Set the width of your div */
+    height: 100%; /* Set the height of your div */
+    background-color: lightblue;
+    text-align: center; /* Center text horizontally */
+    line-height: 50px; /* Center text vertically */
+}
+
+span{
+    padding: 10px 30px;
+    border-radius: 8px;
+    text-decoration:  none;
+    border:  2px solid black;
+}
+#grey{
+    background-color: gray;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#green{
+    background-color: green;
+}
+#white{
+    background-color: white;
+}
